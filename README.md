@@ -95,5 +95,5 @@ As part of a hands-on cybersecurity portfolio project using Josh Madakor’s lab
 
 ---
 
-🔗 **[Project Repository → GitHub.com/Jaysolex/CyberSolex](https://github.com/Jaysolex/CyberSolex)**
+🔗 **[PDF summary  → GitHub.com/Jaysolex/CyberSolex](https://github.com/Jaysolex/vulnerabilty-scan/blob/main/Cybersecurity_Portfolio_Report_CyberSolex_Clean.pdf)**
 
